@@ -1,0 +1,2 @@
+Nouveau fichier d'exemple N°2
+pour synchro git add et commit

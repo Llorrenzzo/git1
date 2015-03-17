@@ -1,0 +1,4 @@
+Nouveau fichier d'exemple N°3
+pour synchro git add et commit
+avec 2 fichier modifiés en meme temps
+Pour test du git add.
